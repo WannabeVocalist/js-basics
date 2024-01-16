@@ -1,0 +1,32 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&family=Merriweather&display=swap');
+
+
+html {
+  background-color: black;
+}
+
+body {
+    font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Merriweather', serif;
+}
+
+h1, h3 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+img {
+  border: solid 5px;
+  border-color: white;
+  width: 100%;
+}
+
+div {
+  width: 50%;
+  margin-left: 25%;
+}
